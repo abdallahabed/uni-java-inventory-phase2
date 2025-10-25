@@ -44,19 +44,19 @@ It allows users to **add, modify, delete, and view items** with or without brand
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/abdallahabed/uni-java-inventory-phase2/blob/main/images/addItemDialog.png" alt="Add Item Dialog" width="400"/>
+  <img src="images/addItemDialog.png" alt="Add Item Dialog" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/abdallahabed/uni-java-inventory-phase2/blob/main/images/modifyItemDialog.png" alt="Modify Item Dialog" width="400"/>
+  <img src="images/modifyItemDialog.png" alt="Modify Item Dialog" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/abdallahabed/uni-java-inventory-phase2/blob/main/images/deleteItemDialog.png" alt="Delete Item Dialog" width="400"/>
+  <img src="images/deleteItemDialog.png" alt="Delete Item Dialog" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/abdallahabed/uni-java-inventory-phase2/blob/main/images/stockReportDialog.png" alt="Stock Report Dialog" width="400"/>
+  <img src="images/stockReportDialog.png" alt="Stock Report Dialog" width="400"/>
 </p>
 
 ---
