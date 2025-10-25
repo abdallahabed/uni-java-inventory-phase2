@@ -1,6 +1,4 @@
-Here’s a full README structured for your Inventory Management FX project, with screenshots of the app running included in logical places:
 
-````markdown
 <p align="center">
   <img src="images/inventoryManagement.jpg" alt="Project Banner" width="300"/>
 </p>
