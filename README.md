@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="main/images/inventoryManagement.png" alt="Project Banner" width="300"/>
+  <img src="https://github.com/abdallahabed/uni-java-inventory-phase2/blob/main/images/inventoryManagement.png" alt="Project Banner" width="300"/>
 </p>
 
 ![Java](https://img.shields.io/badge/language-Java-blue)
